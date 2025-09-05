@@ -123,5 +123,5 @@ Ensuring your infrastructure behaves as expected under real conditions.
 
 ---
 
-This README provides a clear, comprehensive roadmap to deploy a production-ready PHP web application infrastructure on AWS with best practices for security, availability, scaling, and monitoring.
+
 
