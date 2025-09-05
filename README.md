@@ -3,7 +3,7 @@ Built a cloud-native microservices architecture on AWS with VPC, ALB, EC2 Auto S
 
 ![Image Alt](https://github.com/suma419/aws-microservices/blob/883b94d9566ad608799482ae94bbda98cfc5217a/aws_microservices_gITHUB.png)
 
-
+## 📌 Architecture
 VPC (192.168.0.0/16)
 │
 ├── 🌐 Public Subnets (2x) → Internet Gateway, NAT Gateway, Application Load Balancer
